@@ -35,7 +35,7 @@ public class Simple extends JFrame {
 		
 		//SimpleAnimation panel = new SimpleAnimation();
 		//pane.add(panel);
-		//Timer timer = new Timer(20, panel)
+		//Timer timer = new Timer(20, panel);
 		//timer.start();
 		
 		this.setVisible(true);
