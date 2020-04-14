@@ -7,6 +7,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import javax.swing.JPanel;
 
+@SuppressWarnings({ "serial", "unused" })
 public class Mandelbrot extends JPanel {
 	
 	private static final int BITMAP_WIDTH = 512;

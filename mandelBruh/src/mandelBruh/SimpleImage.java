@@ -12,6 +12,7 @@ import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
+@SuppressWarnings({ "serial", "unused" })
 public class SimpleImage extends JPanel {
 	
 	private static final String urlString = 

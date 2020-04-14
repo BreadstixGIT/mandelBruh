@@ -9,6 +9,7 @@ import java.awt.geom.AffineTransform;
 import java.awt.geom.Line2D;
 import javax.swing.JPanel;
 
+@SuppressWarnings({ "serial", "unused" })
 public class SimpleAnimation extends JPanel 
 		implements ActionListener {
 	

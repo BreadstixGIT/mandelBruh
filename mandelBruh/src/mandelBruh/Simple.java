@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
+@SuppressWarnings({ "serial", "unused" })
 public class Simple extends JFrame {
 	
 	private static final int SIMPLE_WIDTH = 512;
