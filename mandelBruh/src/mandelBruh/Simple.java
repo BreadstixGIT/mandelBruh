@@ -38,6 +38,9 @@ public class Simple extends JFrame {
 		//Timer timer = new Timer(20, panel);
 		//timer.start();
 		
+		Mandelbrot panel = new Mandelbrot();
+		pane.add(panel);
+		
 		this.setVisible(true);
 	}
 	
